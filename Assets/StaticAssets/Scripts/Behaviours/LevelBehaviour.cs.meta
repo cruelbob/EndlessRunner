@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d19c7d1c58cbba34d8aac1285726f9ee
+timeCreated: 1452260743
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DefaultPrefab: {fileID: 11488064, guid: e807a8927397fe9418edbca2d8f524d4, type: 2}
+  - CornerPrefab: {fileID: 113102, guid: de7a762f27ac87345a89027fb9290c4f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
